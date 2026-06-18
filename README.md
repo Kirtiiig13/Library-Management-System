@@ -57,4 +57,4 @@ python LIBRMGMT.py
 
 ## Author
 
-Kartik Karnwal
+Kirti Gautam
